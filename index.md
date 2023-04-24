@@ -7,7 +7,7 @@ I am a data scientist, fiddle player, and flute maker from Bala Cynwyd, Pennsylv
 I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and healthcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics, statistics, language comprehension, writing systems, international studies, mythology, history, traditional music, astronomy, cooking, baking, pickling, woodworking, mindfulness, Shakespeare, Lean Six Sigma, Philosophy of Science, literature, digital security, poetry, agile & scrum project management, asteroid mining, quantum information theory, folk dancing, astrobiology, etc. Practical applications of data abound.
 
 ## Blog
-[Wooden Information](https://medium.com/wooden-information/)  
+[Medium Tech Blog](https://medium.com/@GeoffreyGordonAshbrook)  
 
 ## Projects
 January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/MedCabinet)  
@@ -20,6 +20,9 @@ August 2020: [Minimal Text Adventure Game for Teaching Data Science](http://read
 Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/lineality/Minimal_Flask_Endpoint_API_for_Data_Science)  
 
 ## Articles
+April 2023: [AI In A General Learning Gauntlet](https://medium.com/@GeoffreyGordonAshbrook/ai-in-a-general-learning-gauntlet-9731a983df7b)
+April 2023: [AGI's Culture Tools](https://medium.com/@GeoffreyGordonAshbrook/agis-culture-tools-e5538c8429d2)
+April 2023: [Better Tools To Plan AI](https://medium.com/@GeoffreyGordonAshbrook/better-tools-to-plan-ai-29c041180662)
 February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
 October 2019: [Less Is More: Explaining The Future - Using Only The Past](https://medium.com/wooden-information/less-is-more-904427f568e0)
 
