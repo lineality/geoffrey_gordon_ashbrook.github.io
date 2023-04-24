@@ -14,15 +14,15 @@ January 2020: [Medicine and Symptom Recommendation Machine Learning](https://git
 March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
 April 2020: [Emulator of LS8 CPU in Python](https://github.com/lineality/ls8_emulator)  
 April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/lineality/Blind-Graph-Traversal)  
-April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/lineality/Basic_Python_Blockchain/)   
+April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/lineality/Basic_Python_Blockchain/)  
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 August 2020: [Minimal Text Adventure Game for Teaching Data Science](http://readmeadventures.com/)  
 Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/lineality/Minimal_Flask_Endpoint_API_for_Data_Science)  
 
 ## Articles
-April 2023: [AI In A General Learning Gauntlet](https://medium.com/@GeoffreyGordonAshbrook/ai-in-a-general-learning-gauntlet-9731a983df7b)
-April 2023: [AGI's Culture Tools](https://medium.com/@GeoffreyGordonAshbrook/agis-culture-tools-e5538c8429d2)
-April 2023: [Better Tools To Plan AI](https://medium.com/@GeoffreyGordonAshbrook/better-tools-to-plan-ai-29c041180662)
+April 2023: [AI In A General Learning Gauntlet](https://medium.com/@GeoffreyGordonAshbrook/ai-in-a-general-learning-gauntlet-9731a983df7b)  
+April 2023: [AGI's Culture Tools](https://medium.com/@GeoffreyGordonAshbrook/agis-culture-tools-e5538c8429d2)  
+April 2023: [Better Tools To Plan AI](https://medium.com/@GeoffreyGordonAshbrook/better-tools-to-plan-ai-29c041180662)  
 February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
 October 2019: [Less Is More: Explaining The Future - Using Only The Past](https://medium.com/wooden-information/less-is-more-904427f568e0)
 
