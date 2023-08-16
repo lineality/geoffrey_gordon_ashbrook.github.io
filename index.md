@@ -23,8 +23,7 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 ## Articles
 
 
-April 2023: [AI’s Counting Problems](https://medium.com/@GeoffreyGordonAshbrook/ai-counting-problems-8cb9f66e4c7f?source=user_profile---------8----------------------------)  
-
+May 2023: [AI Generalization’s Types & Testability](https://medium.com/@GeoffreyGordonAshbrook/ai-generalizations-types-testability-2341827faf)  
 April 2023: [Our AI Ancestors: Dumbledore’s Portrait and Ray Kurzweil’s Father](https://medium.com/@GeoffreyGordonAshbrook/our-ai-ancestors-dumbledores-portrait-and-ray-kurzweil-s-father-85ec89f85224)  
 April 2023: [Human-AI Interactions Study: World Chess Championships](https://medium.com/@GeoffreyGordonAshbrook/human-ai-interactions-study-world-chess-championships-677298e3195e)  
 April 2023: [AI In A General Learning Gauntlet](https://medium.com/@GeoffreyGordonAshbrook/ai-in-a-general-learning-gauntlet-9731a983df7b)  
