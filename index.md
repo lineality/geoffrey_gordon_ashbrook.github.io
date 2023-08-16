@@ -21,7 +21,6 @@ August 2020: [Minimal Text Adventure Game for Teaching Data Science](http://read
 Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/lineality/Minimal_Flask_Endpoint_API_for_Data_Science)  
 
 ## Articles
-
 June 2023: [Modularizing Problem Space for AI: Following a Wedge by Sight](https://medium.com/@GeoffreyGordonAshbrook/modularizing-problem-space-for-ai-following-a-wedge-by-sight-ab88796c4b57)  
 June 2023: [Questions as Objects in AI Object Handling](https://medium.com/@GeoffreyGordonAshbrook/questions-as-objects-in-ai-object-handling-afd1442b4a15)  
 June 2023: [Interpreting Hofstadter’s Gap: AI, Music, Math, Language](https://medium.com/@GeoffreyGordonAshbrook/interpreting-hofstadters-gap-ai-music-math-language-3e17d37a3d5)  
