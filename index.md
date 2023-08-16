@@ -21,6 +21,12 @@ August 2020: [Minimal Text Adventure Game for Teaching Data Science](http://read
 Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/lineality/Minimal_Flask_Endpoint_API_for_Data_Science)  
 
 ## Articles
+
+
+April 2023: [AI’s Counting Problems](https://medium.com/@GeoffreyGordonAshbrook/ai-counting-problems-8cb9f66e4c7f?source=user_profile---------8----------------------------)  
+
+April 2023: [Our AI Ancestors: Dumbledore’s Portrait and Ray Kurzweil’s Father](https://medium.com/@GeoffreyGordonAshbrook/our-ai-ancestors-dumbledores-portrait-and-ray-kurzweil-s-father-85ec89f85224)  
+April 2023: [Human-AI Interactions Study: World Chess Championships](https://medium.com/@GeoffreyGordonAshbrook/human-ai-interactions-study-world-chess-championships-677298e3195e)  
 April 2023: [AI In A General Learning Gauntlet](https://medium.com/@GeoffreyGordonAshbrook/ai-in-a-general-learning-gauntlet-9731a983df7b)  
 April 2023: [AGI's Culture Tools](https://medium.com/@GeoffreyGordonAshbrook/agis-culture-tools-e5538c8429d2)  
 April 2023: [Better Tools To Plan AI](https://medium.com/@GeoffreyGordonAshbrook/better-tools-to-plan-ai-29c041180662)  
