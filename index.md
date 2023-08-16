@@ -22,7 +22,13 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 
 ## Articles
 
-
+June 2023: [Modularizing Problem Space for AI: Following a Wedge by Sight](https://medium.com/@GeoffreyGordonAshbrook/modularizing-problem-space-for-ai-following-a-wedge-by-sight-ab88796c4b57)  
+June 2023: [Questions as Objects in AI Object Handling](https://medium.com/@GeoffreyGordonAshbrook/questions-as-objects-in-ai-object-handling-afd1442b4a15)  
+June 2023: [Interpreting Hofstadter’s Gap: AI, Music, Math, Language](https://medium.com/@GeoffreyGordonAshbrook/interpreting-hofstadters-gap-ai-music-math-language-3e17d37a3d5)  
+June 2023: [AI Bodies & Brains: Solving A Problem](https://medium.com/@GeoffreyGordonAshbrook/ai-bodies-brains-solving-a-problem-4f0c59a2c3ca)  
+June 2023: [Language, Analysis, Society, Compassion: AI, Biology, & Types of Intelligence](https://medium.com/@GeoffreyGordonAshbrook/language-analysis-society-compassion-ai-biology-types-of-intelligence-e26eb6c8a385)  
+June 2023: [Integrating STEM and Ethics for AI Alignment / Goal Alignment](https://medium.com/@GeoffreyGordonAshbrook/integrating-stem-and-ethics-for-ai-alignment-goal-alignment-33f02c6cff8c)  
+May 2023: [Scientific Method and Data Science Models](https://medium.com/@GeoffreyGordonAshbrook/scientific-method-and-data-science-models-8aa7d6692498)  
 May 2023: [AI Generalization’s Types & Testability](https://medium.com/@GeoffreyGordonAshbrook/ai-generalizations-types-testability-2341827faf)  
 April 2023: [Our AI Ancestors: Dumbledore’s Portrait and Ray Kurzweil’s Father](https://medium.com/@GeoffreyGordonAshbrook/our-ai-ancestors-dumbledores-portrait-and-ray-kurzweil-s-father-85ec89f85224)  
 April 2023: [Human-AI Interactions Study: World Chess Championships](https://medium.com/@GeoffreyGordonAshbrook/human-ai-interactions-study-world-chess-championships-677298e3195e)  
