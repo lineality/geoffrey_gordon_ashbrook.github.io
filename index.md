@@ -24,7 +24,7 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 
 Sept 2023: [Modeling Participant Architectural Learning in Five Trees Plus Mindstate](https://medium.com/@GeoffreyGordonAshbrook/modeling-participant-architectural-learning-in-five-trees-plus-mind-state-36a98ee66655)  
 Sept 2023: [The Vortex: Gender and AI's Scylla and Charybdis](https://medium.com/@GeoffreyGordonAshbrook/the-vortext-gender-and-ais-scylla-and-charybdis-bcc155e26786)  
-Sept 2023: [AI ALU Corpus Callosum](https://medium.com/@GeoffreyGordonAshbrook/ai-corpus-callosum-rapunzels-corpus-callosum-1707b6a7cf02) 
+Sept 2023: [AI ALU Corpus Callosum](https://medium.com/@GeoffreyGordonAshbrook/ai-corpus-callosum-rapunzels-corpus-callosum-1707b6a7cf02)  
 Sept 2023: [Architectural Learning, Developmental-Landscape Hypervolumes, & Empirical Task-Trees: Participation With AI](https://medium.com/@GeoffreyGordonAshbrook/architectural-learning-developmental-landscape-hypervolumes-empirical-task-trees-participation-6a5c9b3cffca?source=user_profile---------4----------------------------)  
 Sept 2023: [Subroutine Stacking Measure: AI Learning & General Project Participation](https://medium.com/@GeoffreyGordonAshbrook/subroutine-stacking-measure-ai-learning-general-project-participation-bb342a2903c4?source=user_profile---------3----------------------------)  
 August 2023: [AI Rules: Falstaff, Computer Science, and Natural Law](https://medium.com/@GeoffreyGordonAshbrook/ai-rules-falstaff-computer-science-and-natural-law-fedabf6c7f64?source=user_profile---------5----------------------------)  
