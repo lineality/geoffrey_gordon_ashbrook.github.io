@@ -21,6 +21,8 @@ August 2020: [Minimal Text Adventure Game for Teaching Data Science](http://read
 Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/lineality/Minimal_Flask_Endpoint_API_for_Data_Science)  
 
 ## Articles
+
+October 2023: [Biology, Psychology, Math: AI broad or AI Narrow](https://medium.com/@GeoffreyGordonAshbrook/biology-psychology-math-ai-broad-or-ai-narrow-0e0a2a435ba8)  
 Sept 2023: [Calculating Tea for AI: Advocating for Architectural Learning](https://medium.com/@GeoffreyGordonAshbrook/calculating-tea-for-ai-advocating-for-architectural-learning-f2961380bc14)  
 Sept 2023: [Modeling Participant Architectural Learning in Five Trees Plus Mindstate](https://medium.com/@GeoffreyGordonAshbrook/modeling-participant-architectural-learning-in-five-trees-plus-mind-state-36a98ee66655)  
 Sept 2023: [The Vortex: Gender and AI's Scylla and Charybdis](https://medium.com/@GeoffreyGordonAshbrook/the-vortext-gender-and-ais-scylla-and-charybdis-bcc155e26786)  
