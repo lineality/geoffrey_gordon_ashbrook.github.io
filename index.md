@@ -22,6 +22,7 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 
 ## Articles
 
+October 2023: [Jellyfish Spider-Crab AI: Modular Architectural Learning](https://medium.com/@GeoffreyGordonAshbrook/jellyfish-spider-crab-ai-modular-architectural-learning-9b7492d68394)  
 October 2023: [Biology, Psychology, Math: AI broad or AI Narrow](https://medium.com/@GeoffreyGordonAshbrook/biology-psychology-math-ai-broad-or-ai-narrow-0e0a2a435ba8)  
 Sept 2023: [Calculating Tea for AI: Advocating for Architectural Learning](https://medium.com/@GeoffreyGordonAshbrook/calculating-tea-for-ai-advocating-for-architectural-learning-f2961380bc14)  
 Sept 2023: [Modeling Participant Architectural Learning in Five Trees Plus Mindstate](https://medium.com/@GeoffreyGordonAshbrook/modeling-participant-architectural-learning-in-five-trees-plus-mind-state-36a98ee66655)  
