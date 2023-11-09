@@ -16,9 +16,9 @@ March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://med
 April 2020: [Emulator of LS8 CPU in Python](https://github.com/lineality/ls8_emulator)  
 April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/lineality/Blind-Graph-Traversal)  
 April 2020: [Basic Blockchain Structure From Scratch in Python](https://github.com/lineality/Basic_Python_Blockchain/)  
-Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 August 2020: [Minimal Text Adventure Game for Teaching Data Science](http://readmeadventures.com/)  
 Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/lineality/Minimal_Flask_Endpoint_API_for_Data_Science)  
+Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
 November 2023: [Ants vs AI](https://medium.com/@GeoffreyGordonAshbrook/ants-vs-ai-d4aadf537d08)  
