@@ -21,7 +21,7 @@ August 2020: [Minimal Text Adventure Game for Teaching Data Science](http://read
 Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/lineality/Minimal_Flask_Endpoint_API_for_Data_Science)  
 
 ## Articles
-
+November 2023: [Ants vs AI](https://medium.com/@GeoffreyGordonAshbrook/ants-vs-ai-d4aadf537d08)  
 October 2023: [Jellyfish Spider-Crab AI: Modular Architectural Learning](https://medium.com/@GeoffreyGordonAshbrook/jellyfish-spider-crab-ai-modular-architectural-learning-9b7492d68394)  
 October 2023: [Biology, Psychology, Math: AI broad or AI Narrow](https://medium.com/@GeoffreyGordonAshbrook/biology-psychology-math-ai-broad-or-ai-narrow-0e0a2a435ba8)  
 Sept 2023: [Calculating Tea for AI: Advocating for Architectural Learning](https://medium.com/@GeoffreyGordonAshbrook/calculating-tea-for-ai-advocating-for-architectural-learning-f2961380bc14)  
