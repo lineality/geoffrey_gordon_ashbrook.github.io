@@ -21,6 +21,8 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
+November 2023: [Feedback on Language Meaning](https://medium.com/@GeoffreyGordonAshbrook/feedback-on-language-meaning-ai-overfitting-niches-potemkin-villages-procrustes-fraud-9395a86e822f)  
+November 2023: [Technology, Biology, and AI Goals](https://medium.com/@GeoffreyGordonAshbrook/technology-biology-and-ai-goals-cce9477d1450)  
 November 2023: [Ants vs AI](https://medium.com/@GeoffreyGordonAshbrook/ants-vs-ai-d4aadf537d08)  
 October 2023: [Jellyfish Spider-Crab AI: Modular Architectural Learning](https://medium.com/@GeoffreyGordonAshbrook/jellyfish-spider-crab-ai-modular-architectural-learning-9b7492d68394)  
 October 2023: [Biology, Psychology, Math: AI broad or AI Narrow](https://medium.com/@GeoffreyGordonAshbrook/biology-psychology-math-ai-broad-or-ai-narrow-0e0a2a435ba8)  
