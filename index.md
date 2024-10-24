@@ -11,11 +11,8 @@ I am interested in interdisciplinary projects that span best practice and organi
 
 ## Projects
 Dec 2023: [STEM-Net Benchmarks](https://github.com/stemnetbenchmarks)  
-
 March 2023: [Object Relationship Space Framework For AI Design, Analysis, Performance, Architecture, and Operating Systems](https://github.com/lineality/object_relationship_spaces_ai_ml)  
-
 January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/MedCabinet)  
-
 March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
 April 2020: [Emulator of LS8 CPU in Python](https://github.com/lineality/ls8_emulator)  
 April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/lineality/Blind-Graph-Traversal)  
@@ -25,12 +22,10 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
-September 2024: [Empathy, Narrative Interpretation, Context, and Project-State](https://medium.com/@GeoffreyGordonAshbrook/empathy-narrative-interpretation-context-and-project-state-8c4be1ecca17) 
-June 2024: [Data-Ecology: Dimensions of Multimodal Foundation Models](https://medium.com/@GeoffreyGordonAshbrook/data-ecology-dimensions-of-multimodal-foundation-models-7b5225ab0da3) 
+September 2024: [Empathy, Narrative Interpretation, Context, and Project-State](https://medium.com/@GeoffreyGordonAshbrook/empathy-narrative-interpretation-context-and-project-state-8c4be1ecca17)  
+June 2024: [Data-Ecology: Dimensions of Multimodal Foundation Models](https://medium.com/@GeoffreyGordonAshbrook/data-ecology-dimensions-of-multimodal-foundation-models-7b5225ab0da3)  
 June 2024: [Search with Non-generative-AI](https://medium.com/@GeoffreyGordonAshbrook/search-with-non-generative-ai-d0a3cc77164b)  
-March 2024: [Let’s Test Models and Let’s Do Tasks
-Geoffrey Gordon Ashbrook
-](https://medium.com/@GeoffreyGordonAshbrook/lets-test-models-and-let-s-do-tasks-84777f80eb99) 
+March 2024: [Let’s Test Models and Let’s Do Tasks](https://medium.com/@GeoffreyGordonAshbrook/lets-test-models-and-let-s-do-tasks-84777f80eb99)  
 February 2024: [Mixed Messages in AI Training Data](https://medium.com/@GeoffreyGordonAshbrook/mixed-messages-in-ai-training-data-d95e3442137a)  
 January 2024: [AI and The Offworld Future of the Internet](https://medium.com/@GeoffreyGordonAshbrook/ai-and-the-offworld-future-of-the-internet-70801c4f97e3)  
 January 2024: [Gender Asymmetry and AI in Society](https://medium.com/@GeoffreyGordonAshbrook/gender-asymmetry-and-ai-in-society-014b0b8c5418)  
