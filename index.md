@@ -11,8 +11,11 @@ I am interested in interdisciplinary projects that span best practice and organi
 
 ## Projects
 Dec 2023: [STEM-Net Benchmarks](https://github.com/stemnetbenchmarks)  
+
 March 2023: [Object Relationship Space Framework For AI Design, Analysis, Performance, Architecture, and Operating Systems](https://github.com/lineality/object_relationship_spaces_ai_ml)  
+
 January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/MedCabinet)  
+
 March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
 April 2020: [Emulator of LS8 CPU in Python](https://github.com/lineality/ls8_emulator)  
 April 2020: [Efficient Blind Traversal of Graph(Data Structure)](https://github.com/lineality/Blind-Graph-Traversal)  
