@@ -22,7 +22,7 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
-September 2024: []() 
+September 2024: [Empathy, Narrative Interpretation, Context, and Project-State](https://medium.com/@GeoffreyGordonAshbrook/empathy-narrative-interpretation-context-and-project-state-8c4be1ecca17) 
 June 2024: [Data-Ecology: Dimensions of Multimodal Foundation Models](https://medium.com/@GeoffreyGordonAshbrook/data-ecology-dimensions-of-multimodal-foundation-models-7b5225ab0da3) 
 June 2024: [Search with Non-generative-AI](https://medium.com/@GeoffreyGordonAshbrook/search-with-non-generative-ai-d0a3cc77164b)  
 March 2024: [Let’s Test Models and Let’s Do Tasks
