@@ -10,7 +10,7 @@ I am interested in interdisciplinary projects that span best practice and organi
 [Medium Tech Blog](https://medium.com/@GeoffreyGordonAshbrook)  
 
 ## Projects
-Dec 2023: [STEM-Net Benchmarks](https://github.com/stemnetbenchmarks)  
+Dec 2023: [STEM-Net Benchmarks](https://github.com/stemnetbenchmarks)/[Let’s Test Models and Let’s Do Tasks](https://medium.com/@GeoffreyGordonAshbrook/lets-test-models-and-let-s-do-tasks-84777f80eb99)    
 March 2023: [Object Relationship Space Framework For AI Design, Analysis, Performance, Architecture, and Operating Systems](https://github.com/lineality/object_relationship_spaces_ai_ml)  
 January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/MedCabinet)  
 March 2020: [Center for Advanced Defense Studies Sanctions Explorer](https://medium.com/wooden-information/modeling-networks-of-networks-5e22cd85cd24)  
