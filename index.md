@@ -23,9 +23,11 @@ Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://githu
 
 ## Articles
 September 2024: []() 
-June 2024: []() 
-June 2024: []()  
-March 2024: []()  
+June 2024: [Data-Ecology: Dimensions of Multimodal Foundation Models](https://medium.com/@GeoffreyGordonAshbrook/data-ecology-dimensions-of-multimodal-foundation-models-7b5225ab0da3) 
+June 2024: [Search with Non-generative-AI](https://medium.com/@GeoffreyGordonAshbrook/search-with-non-generative-ai-d0a3cc77164b)  
+March 2024: [Let’s Test Models and Let’s Do Tasks
+Geoffrey Gordon Ashbrook
+](https://medium.com/@GeoffreyGordonAshbrook/lets-test-models-and-let-s-do-tasks-84777f80eb99) 
 February 2024: [Mixed Messages in AI Training Data](https://medium.com/@GeoffreyGordonAshbrook/mixed-messages-in-ai-training-data-d95e3442137a)  
 January 2024: [AI and The Offworld Future of the Internet](https://medium.com/@GeoffreyGordonAshbrook/ai-and-the-offworld-future-of-the-internet-70801c4f97e3)  
 January 2024: [Gender Asymmetry and AI in Society](https://medium.com/@GeoffreyGordonAshbrook/gender-asymmetry-and-ai-in-society-014b0b8c5418)  
