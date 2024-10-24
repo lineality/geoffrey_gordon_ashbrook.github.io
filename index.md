@@ -22,6 +22,7 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
+December 2023: [Minimal-Recursive-State: recursive, summary, searchable, AI memory](https://medium.com/@GeoffreyGordonAshbrook/minimal-recursive-state-recursive-summary-searchable-ai-memory-e82985842c5d)  
 December 2023: [Image Analogies and Relationships: Word and Image](https://medium.com/@GeoffreyGordonAshbrook/image-analogies-and-relationships-ai-interactions-in-word-and-image-f9aa4ffa7371)  
 November 2023: [Feedback on Language Meaning](https://medium.com/@GeoffreyGordonAshbrook/feedback-on-language-meaning-ai-overfitting-niches-potemkin-villages-procrustes-fraud-9395a86e822f)  
 November 2023: [Technology, Biology, and AI Goals](https://medium.com/@GeoffreyGordonAshbrook/technology-biology-and-ai-goals-cce9477d1450)  
