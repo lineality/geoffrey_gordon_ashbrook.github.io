@@ -4,22 +4,13 @@
 
 I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsylvania (currently living in Avalon, NJ). A passion for interdisciplinary and practical studies has lead me from [Artificial Intelligence research](https://dl.acm.org/doi/10.5555/646145.678706) in 2002 at CU Boulder (studying biology, linguistics, genetics, ecology, astrobiology, botany, computer science, and education) to biology and K-12 science and language teaching, and then back to AI Data Science in 2015. I completed the Data Science program at [The Bloom Institute of Technology](https://www.bloomtech.com/) in 2020 (at that time a 9 month, 8hr per day, cross functional team project 'Lambda School' program). 
 
-I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and healthcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics, statistics, language comprehension, writing systems, international studies, mythology, history, traditional music, astronomy, cooking, baking, pickling, woodworking, mindfulness, Shakespeare, Lean Six Sigma, Philosophy of Science, literature, digital security, poetry, agile & scrum project management, asteroid mining, quantum information theory, folk dancing, astrobiology, etc. Practical applications of data abound.
+
 
 ## Blog
 [Medium Tech Blog](https://medium.com/@GeoffreyGordonAshbrook)  
 
 
-### Key Interests & Foci
-- Project Management
-- Data Science, AI ML
-- Databases
-- Cybersecurity and Data Hygeine
-- Systems Programing
-- Programming Languages (and human languages)
-- Dashboarding & Report Generation-Sharing
-- Document/File formatting, processing, augmentation, chunking
-- STEM & Computer Science, extended and integrated
+
 
 ## 2024-2025 Projects Include:
 
@@ -46,6 +37,20 @@ I am interested in interdisciplinary projects that span best practice and organi
 
 #### Uma: Project Management
 - [https://github.com/lineality/uma_productivity_collaboration_tool](https://github.com/lineality/uma_productivity_collaboration_tool)
+
+
+### Key Interests & Foci
+- Project Management
+- Data Science, AI ML
+- Databases
+- Cybersecurity and Data Hygeine
+- Systems Programing
+- Programming Languages (and human languages)
+- Dashboarding & Report Generation-Sharing
+- Document/File formatting, processing, augmentation, chunking
+- STEM & Computer Science, extended and integrated
+
+I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and healthcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics, statistics, language comprehension, writing systems, international studies, mythology, history, traditional music, astronomy, cooking, baking, pickling, woodworking, mindfulness, Shakespeare, Lean Six Sigma, Philosophy of Science, literature, digital security, poetry, agile & scrum project management, asteroid mining, quantum information theory, folk dancing, astrobiology, etc. Practical applications of data abound.
 
 ## Projects
 Dec 2023: [STEM-Net Benchmarks](https://github.com/stemnetbenchmarks)/[Let’s Test Models and Let’s Do Tasks](https://medium.com/@GeoffreyGordonAshbrook/lets-test-models-and-let-s-do-tasks-84777f80eb99)    
