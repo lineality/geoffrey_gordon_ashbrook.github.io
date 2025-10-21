@@ -2,12 +2,49 @@
 
 # Geoffrey Gordon Ashbrook
 
-I am a data scientist, fiddle player, and flute maker from Bala Cynwyd, Pennsylvania. My passion for interdisciplinary and practical studies has lead me from [Artificial Intelligence research](https://dl.acm.org/doi/10.5555/646145.678706) in 2002 at CU Boulder, to biology, to K-12 science and language teaching, and back to AI Data Science. I completed the Data Science program at [The Bloom Institute of Technology](https://www.bloomtech.com/) in 2020. 
+I am a data scientist and musician from Bala Cynwyd, Pennsylvania. A passion for interdisciplinary and practical studies has lead me from [Artificial Intelligence research](https://dl.acm.org/doi/10.5555/646145.678706) in 2002 at CU Boulder, to biology with K-12 science and language teaching, and the back to AI Data Science in 2015. I completed the Data Science program at [The Bloom Institute of Technology](https://www.bloomtech.com/) in 2020 (at that time a 9 month, 8hr per day, cross functional team project program). 
 
 I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and healthcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics, statistics, language comprehension, writing systems, international studies, mythology, history, traditional music, astronomy, cooking, baking, pickling, woodworking, mindfulness, Shakespeare, Lean Six Sigma, Philosophy of Science, literature, digital security, poetry, agile & scrum project management, asteroid mining, quantum information theory, folk dancing, astrobiology, etc. Practical applications of data abound.
 
 ## Blog
 [Medium Tech Blog](https://medium.com/@GeoffreyGordonAshbrook)  
+
+
+### Key Interests & Foci
+- Project Management
+- Data Science, AI ML
+- Databases
+- Systems Programing
+- Programming Languages
+- Dashboarding & Report Generation
+- Document/File formatting, processing, augmentation, chunking
+- STEM, extended and integrated
+
+## 2024-2025 Project Include:
+
+### Stemnet Benchmarks - synthetic data and benchmarking tools, including structured data query benchmarking
+- https://github.com/stemnetbenchmarks 
+- https://github.com/stemnetbenchmarks/sythetic_biology_datasets_python 
+
+### File Fantastic - TUI scalable file manager/browser
+- https://github.com/lineality/ff_file_manager_minimal_rust
+
+### Lines - TUI file editor
+- https://github.com/lineality/lines_editor
+
+### Gutenberg Babble: model and tokenizer construction sandbox
+- https://github.com/lineality/gutenberg_babble 
+- https://github.com/lineality/bucket_brigade_preallocated_chunking
+- https://github.com/lineality/alu_python
+
+### document processing - document chunking & preprocessing
+- https://github.com/lineality/epub_ingestion_python
+
+### language-detect - negative-definition word and sentence counting
+- https://github.com/lineality/language_detect_with_python
+
+### Uma: Project Management
+- https://github.com/lineality/uma_productivity_collaboration_tool 
 
 ## Projects
 Dec 2023: [STEM-Net Benchmarks](https://github.com/stemnetbenchmarks)/[Let’s Test Models and Let’s Do Tasks](https://medium.com/@GeoffreyGordonAshbrook/lets-test-models-and-let-s-do-tasks-84777f80eb99)    
