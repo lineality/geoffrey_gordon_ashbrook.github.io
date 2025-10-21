@@ -20,30 +20,30 @@ I am interested in interdisciplinary projects that span best practice and organi
 - Document/File formatting, processing, augmentation, chunking
 - STEM, extended and integrated
 
-## 2024-2025 Project Include:
+## 2024-2025 Projects Include:
 
-### Stemnet Benchmarks - synthetic data and benchmarking tools, including structured data query benchmarking
+#### Stemnet Benchmarks - synthetic data and benchmarking tools, including structured data query benchmarking
 - https://github.com/stemnetbenchmarks 
 - https://github.com/stemnetbenchmarks/sythetic_biology_datasets_python 
 
-### File Fantastic - TUI scalable file manager/browser
+#### File Fantastic - TUI scalable file manager/browser
 - https://github.com/lineality/ff_file_manager_minimal_rust
 
-### Lines - TUI file editor
+#### Lines - TUI file editor
 - https://github.com/lineality/lines_editor
 
-### Gutenberg Babble: model and tokenizer construction sandbox
+#### Gutenberg Babble: model and tokenizer construction sandbox
 - https://github.com/lineality/gutenberg_babble 
 - https://github.com/lineality/bucket_brigade_preallocated_chunking
 - https://github.com/lineality/alu_python
 
-### document processing - document chunking & preprocessing
+#### document processing - document chunking & preprocessing
 - https://github.com/lineality/epub_ingestion_python
 
-### language-detect - negative-definition word and sentence counting
+#### language-detect - negative-definition word and sentence counting
 - https://github.com/lineality/language_detect_with_python
 
-### Uma: Project Management
+#### Uma: Project Management
 - https://github.com/lineality/uma_productivity_collaboration_tool 
 
 ## Projects
