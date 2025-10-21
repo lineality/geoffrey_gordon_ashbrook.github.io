@@ -14,11 +14,12 @@ I am interested in interdisciplinary projects that span best practice and organi
 - Project Management
 - Data Science, AI ML
 - Databases
+- Cybersecurity and Data Hygeine
 - Systems Programing
-- Programming Languages
-- Dashboarding & Report Generation
+- Programming Languages (and human languages)
+- Dashboarding & Report Generation-Sharing
 - Document/File formatting, processing, augmentation, chunking
-- STEM, extended and integrated
+- STEM & Computer Science, extended and integrated
 
 ## 2024-2025 Projects Include:
 
