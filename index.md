@@ -36,6 +36,7 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 - [https://github.com/lineality/language_detect_with_python](https://github.com/lineality/language_detect_with_python)
 
 #### Uma: Project Management
+- [https://github.com/lineality/project_areas_for_project_and_product_management](https://github.com/lineality/project_areas_for_project_and_product_management)
 - [https://github.com/lineality/uma_productivity_collaboration_tool](https://github.com/lineality/uma_productivity_collaboration_tool)
 
 
