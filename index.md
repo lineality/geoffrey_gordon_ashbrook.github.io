@@ -55,6 +55,8 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and healthcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics, statistics, language comprehension, writing systems, international studies, mythology, history, traditional music, astronomy, cooking, baking, pickling, woodworking, mindfulness, Shakespeare, Lean Six Sigma, Philosophy of Science, literature, digital security, poetry, agile & scrum project management, asteroid mining, quantum information theory, folk dancing, astrobiology, etc. Practical applications of data abound.
 
 ## Projects
+Oct 2025: [Lines: Terminal-TUI Text/Hex Editor - written in Rust](https://github.com/lineality/lines_editor)  
+Sept 2025: [File Fantastic: Terminal-TUI File Manager/Explorer - written in Rust](https://github.com/lineality/ff_file_manager_minimal_rust)  
 Dec 2023: [STEM-Net Benchmarks](https://github.com/stemnetbenchmarks)/[Let’s Test Models and Let’s Do Tasks](https://medium.com/@GeoffreyGordonAshbrook/lets-test-models-and-let-s-do-tasks-84777f80eb99)    
 March 2023: [Object Relationship Space Framework For AI Design, Analysis, Performance, Architecture, and Operating Systems](https://github.com/lineality/object_relationship_spaces_ai_ml)  
 January 2020: [Medicine and Symptom Recommendation Machine Learning](https://github.com/MedCabinet)  
