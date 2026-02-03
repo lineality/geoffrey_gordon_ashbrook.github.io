@@ -67,8 +67,8 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
-January 2026: [https://medium.com/@GeoffreyGordonAshbrook/language-detect-60e8f738f825](https://medium.com/@GeoffreyGordonAshbrook/language-detect-60e8f738f825)  
-January 2026: [https://medium.com/@GeoffreyGordonAshbrook/technology-hiring-admissions-f97f6212b4c2](https://medium.com/@GeoffreyGordonAshbrook/technology-hiring-admissions-f97f6212b4c2)  
+January 2026: [Language-Detect: Optimzed tool diversity in pipelines](https://medium.com/@GeoffreyGordonAshbrook/language-detect-60e8f738f825)  
+January 2026: [Technology in Hiring and Admissions](https://medium.com/@GeoffreyGordonAshbrook/technology-hiring-admissions-f97f6212b4c2)  
 September 2024: [Empathy, Narrative Interpretation, Context, and Project-State](https://medium.com/@GeoffreyGordonAshbrook/empathy-narrative-interpretation-context-and-project-state-8c4be1ecca17)  
 June 2024: [Data-Ecology: Dimensions of Multimodal Foundation Models](https://medium.com/@GeoffreyGordonAshbrook/data-ecology-dimensions-of-multimodal-foundation-models-7b5225ab0da3)  
 June 2024: [Search with Non-generative-AI](https://medium.com/@GeoffreyGordonAshbrook/search-with-non-generative-ai-d0a3cc77164b)  
