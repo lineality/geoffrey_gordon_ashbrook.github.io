@@ -10,10 +10,8 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 [Medium Tech Blog](https://medium.com/@GeoffreyGordonAshbrook)  
 
 ## 2026 Projects Include:
-- [https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)
-- [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216) 
-- [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/loss-functions-for-task-outcomes-preconditions-for-learning-641ca9d48572) 
-- [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/technology-hiring-admissions-f97f6212b4c2) 
+- [https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)  
+- [Evaluating Hybrid Data Analytics](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216) 
 
 ## 2024-2025 Projects Include:
 
@@ -58,7 +56,7 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and healthcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics, statistics, language comprehension, writing systems, international studies, mythology, history, traditional music, astronomy, cooking, baking, pickling, woodworking, mindfulness, Shakespeare, Lean Six Sigma, Philosophy of Science, literature, digital security, poetry, agile & scrum project management, asteroid mining, quantum information theory, folk dancing, astrobiology, etc. Practical applications of data abound.
 
 ## Projects
-May 2026: [AI RPG Arena & Human Project Skills Evaluations](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)
+May 2026: [AI RPG Arena & Human Project Skills Evaluations](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)  
 
 Oct 2025: [Lines: Terminal-TUI Text/Hex Editor - written in Rust](https://github.com/lineality/lines_editor)  
 Sept 2025: [File Fantastic: Terminal-TUI File Manager/Explorer - written in Rust](https://github.com/lineality/ff_file_manager_minimal_rust)  
@@ -74,7 +72,9 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
-
+May 2026: 
+April 2026: [Evaluating Hybrid Data Analytics](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216)  
+March 2026: [Loss Functions for Task Outcomes & Preconditions for Learning](https://medium.com/@GeoffreyGordonAshbrook/loss-functions-for-task-outcomes-preconditions-for-learning-641ca9d48572)  
 March 2026: [Five AI Concepts](https://medium.com/@GeoffreyGordonAshbrook/five-ai-concepts-ecf5c9698559)  
 January 2026: [Language-Detect: Optimzed tool diversity in pipelines](https://medium.com/@GeoffreyGordonAshbrook/language-detect-60e8f738f825)  
 January 2026: [Technology in Hiring and Admissions](https://medium.com/@GeoffreyGordonAshbrook/technology-hiring-admissions-f97f6212b4c2)  
