@@ -10,7 +10,10 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 [Medium Tech Blog](https://medium.com/@GeoffreyGordonAshbrook)  
 
 ## 2026 Projects Include:
+#### Social Story Puzzles & ‘Pointless’ Cookbook/Logistics Puzzles: A Testing, Training, Evaluation framework-set, including a Tabletop-like Mini-RPG for people or for AI-Bots
 - [https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)  
+
+#### Comparing Methods, Performance and Tradeoffs Using Vector, Generative, & Assorted Tools to Perform Analytics on Structured & Unstructured Data
 - [Evaluating Hybrid Data Analytics](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216) 
 
 ## 2024-2025 Projects Include:
