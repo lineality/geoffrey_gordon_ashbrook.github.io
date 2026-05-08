@@ -20,6 +20,9 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 #### Negative Detection, Symbolic vs. Sub-symbolic
 - [https://github.com/lineality/language_detect](https://github.com/lineality/language_detect)
 
+#### Gutenberg Babble: Making custom models, tokenizers, and loss functions
+- https://github.com/lineality/gutenberg_babble
+- https://github.com/lineality/gutenberg_babble/tree/main/perseids/byte_perseid
 
 ## 2024-2025 Projects Include:
 
