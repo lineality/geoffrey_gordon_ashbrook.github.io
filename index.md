@@ -60,7 +60,6 @@ I am interested in interdisciplinary projects that span best practice and organi
 
 ## Projects
 May 2026: [AI RPG Arena & Human Project Skills Evaluations](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)  
-
 Oct 2025: [Lines: Terminal-TUI Text/Hex Editor - written in Rust](https://github.com/lineality/lines_editor)  
 Sept 2025: [File Fantastic: Terminal-TUI File Manager/Explorer - written in Rust](https://github.com/lineality/ff_file_manager_minimal_rust)  
 Dec 2023: [STEM-Net Benchmarks](https://github.com/stemnetbenchmarks)/[Let’s Test Models and Let’s Do Tasks](https://medium.com/@GeoffreyGordonAshbrook/lets-test-models-and-let-s-do-tasks-84777f80eb99)    
@@ -75,7 +74,7 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
-May 2026: [AI RPG Arena](https://medium.com/@GeoffreyGordonAshbrook/ai-rpg-arena-8a715953e962)
+May 2026: [AI RPG Arena](https://medium.com/@GeoffreyGordonAshbrook/ai-rpg-arena-8a715953e962)  
 April 2026: [Evaluating Hybrid Data Analytics](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216)  
 March 2026: [Loss Functions for Task Outcomes & Preconditions for Learning](https://medium.com/@GeoffreyGordonAshbrook/loss-functions-for-task-outcomes-preconditions-for-learning-641ca9d48572)  
 March 2026: [Five AI Concepts](https://medium.com/@GeoffreyGordonAshbrook/five-ai-concepts-ecf5c9698559)  
