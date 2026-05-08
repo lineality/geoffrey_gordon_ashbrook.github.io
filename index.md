@@ -10,7 +10,7 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 [Medium Tech Blog](https://medium.com/@GeoffreyGordonAshbrook)  
 
 ## 2026 Projects Include:
-- [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/ai-rpg-arena-8a715953e962) 
+- [https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)
 - [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216) 
 - [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/loss-functions-for-task-outcomes-preconditions-for-learning-641ca9d48572) 
 - [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/technology-hiring-admissions-f97f6212b4c2) 
@@ -58,6 +58,7 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and healthcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics, statistics, language comprehension, writing systems, international studies, mythology, history, traditional music, astronomy, cooking, baking, pickling, woodworking, mindfulness, Shakespeare, Lean Six Sigma, Philosophy of Science, literature, digital security, poetry, agile & scrum project management, asteroid mining, quantum information theory, folk dancing, astrobiology, etc. Practical applications of data abound.
 
 ## Projects
+May 2026: [AI RPG Arena & Human Project Skills Evaluations](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)
 
 Oct 2025: [Lines: Terminal-TUI Text/Hex Editor - written in Rust](https://github.com/lineality/lines_editor)  
 Sept 2025: [File Fantastic: Terminal-TUI File Manager/Explorer - written in Rust](https://github.com/lineality/ff_file_manager_minimal_rust)  
