@@ -14,7 +14,12 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 - [https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)  
 
 #### Comparing Methods, Performance and Tradeoffs Using Vector, Generative, & Assorted Tools to Perform Analytics on Structured & Unstructured Data
+- Added to Synthetic-Biology Data-Toolkit [https://github.com/stemnetbenchmarks/synthetic_biology_datasets_python](https://github.com/stemnetbenchmarks/synthetic_biology_datasets_python)
 - [Evaluating Hybrid Data Analytics](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216) 
+
+#### Negative Detection, Symbolic vs. Sub-symbolic
+- [https://github.com/lineality/language_detect](https://github.com/lineality/language_detect)
+
 
 ## 2024-2025 Projects Include:
 
