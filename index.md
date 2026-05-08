@@ -61,7 +61,7 @@ I am interested in interdisciplinary projects that span best practice and organi
 ## Projects
 May 2026: [AI RPG Arena & Human Project Skills Evaluations](https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles)  
 April 2026: [Evaluating Hybrid Data Analytics](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216)  
-Nov 2025: [Byte Tokenizers and Custerom Loss-functions in trained foundation models](https://medium.com/@GeoffreyGordonAshbrook/loss-functions-for-task-outcomes-preconditions-for-learning-641ca9d48572)
+Nov 2025: [Byte Tokenizers and Custerom Loss-functions in trained foundation models](https://medium.com/@GeoffreyGordonAshbrook/loss-functions-for-task-outcomes-preconditions-for-learning-641ca9d48572)  
 Oct 2025: [Lines: Terminal-TUI Text/Hex Editor - written in Rust](https://github.com/lineality/lines_editor)  
 Sept 2025: [File Fantastic: Terminal-TUI File Manager/Explorer - written in Rust](https://github.com/lineality/ff_file_manager_minimal_rust)  
 Dec 2023: [STEM-Net Benchmarks](https://github.com/stemnetbenchmarks)/[Let’s Test Models and Let’s Do Tasks](https://medium.com/@GeoffreyGordonAshbrook/lets-test-models-and-let-s-do-tasks-84777f80eb99)    
