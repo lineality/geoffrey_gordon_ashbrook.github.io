@@ -9,8 +9,11 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 ## Blog
 [Medium Tech Blog](https://medium.com/@GeoffreyGordonAshbrook)  
 
-
-
+## 2026 Projects Include:
+- [https://github.com/stemnetbenchmarks]([https://medium.com/@GeoffreyGordonAshbrook/ai-rpg-arena-8a715953e962])
+- [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216)
+- [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/loss-functions-for-task-outcomes-preconditions-for-learning-641ca9d48572)
+- [https://github.com/stemnetbenchmarks](https://medium.com/@GeoffreyGordonAshbrook/technology-hiring-admissions-f97f6212b4c2)
 
 ## 2024-2025 Projects Include:
 
