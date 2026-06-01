@@ -18,7 +18,7 @@ I am a data scientist and traditional-music-enthusiast from Bala Cynwyd, Pennsyl
 I am interested in interdisciplinary projects that span best practice and organizational management, education and human development, economics and finance, health and healthcare, consciousness, law, visual arts, poetry, botany, economic-botany, linguistics, statistics, language comprehension, writing systems, international studies, mythology, history, traditional music, astronomy, cooking, baking, pickling, woodworking, mindfulness, Shakespeare, Lean Six Sigma, Philosophy of Science, literature, digital security, poetry, agile & scrum project management, asteroid mining, quantum information theory, folk dancing, astrobiology, etc. Practical applications of data abound.
 
 
-## Blog
+## Blog, Articles, Papers
 [Medium Tech Blog](https://medium.com/@GeoffreyGordonAshbrook)  
 
 ## 2026 Projects Include:
