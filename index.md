@@ -89,6 +89,7 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
+July 2026: [The Stuff Detector: Book Learning, Task Learning, and Education](https://medium.com/@GeoffreyGordonAshbrook/the-stuff-detector-book-learning-task-learning-and-education-e9274e1abc5d)  
 May 2026: [AI RPG Arena](https://medium.com/@GeoffreyGordonAshbrook/ai-rpg-arena-8a715953e962)  
 April 2026: [Evaluating Hybrid Data Analytics](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216)  
 March 2026: [Loss Functions for Task Outcomes & Preconditions for Learning](https://medium.com/@GeoffreyGordonAshbrook/loss-functions-for-task-outcomes-preconditions-for-learning-641ca9d48572)  
