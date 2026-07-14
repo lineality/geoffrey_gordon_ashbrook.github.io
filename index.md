@@ -90,6 +90,8 @@ Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://githu
 
 ## Articles
 July 2026: [The Stuff Detector: Book Learning, Task Learning, and Education](https://medium.com/@GeoffreyGordonAshbrook/the-stuff-detector-book-learning-task-learning-and-education-e9274e1abc5d)  
+June 2026: [Understanding Classification Workflow in Data Science](https://medium.com/@GeoffreyGordonAshbrook/understanding-classification-workflow-in-data-science-6eeeaa2a632f)  
+June 2026: [Evaluating Structured-Data-Analytics Performance](https://medium.com/@GeoffreyGordonAshbrook/evaluating-structured-data-analytics-performance-56355c238cdd)  
 May 2026: [AI RPG Arena](https://medium.com/@GeoffreyGordonAshbrook/ai-rpg-arena-8a715953e962)  
 April 2026: [Evaluating Hybrid Data Analytics](https://medium.com/@GeoffreyGordonAshbrook/evaluating-vector-hybrid-data-analytics-e233a0ac7216)  
 March 2026: [Loss Functions for Task Outcomes & Preconditions for Learning](https://medium.com/@GeoffreyGordonAshbrook/loss-functions-for-task-outcomes-preconditions-for-learning-641ca9d48572)  
