@@ -89,6 +89,7 @@ Sept 2020: [Guide: Minimal Flask Endpoints for Data_Science](https://github.com/
 Dec 2019: [Basic Perceptron Neural Network in Python from Scratch](https://github.com/lineality/Perceptron_Studies)  
 
 ## Articles
+July 2026: [Navigating Production Data-Science Workflow in Agile Teams](https://medium.com/@GeoffreyGordonAshbrook/navigating-production-data-science-workflow-in-agile-teams-41c0efa776b8?postPublishedType=initial)  
 July 2026: [The Stuff Detector: Book Learning, Task Learning, and Education](https://medium.com/@GeoffreyGordonAshbrook/the-stuff-detector-book-learning-task-learning-and-education-e9274e1abc5d)  
 June 2026: [Understanding Classification Workflow in Data Science](https://medium.com/@GeoffreyGordonAshbrook/understanding-classification-workflow-in-data-science-6eeeaa2a632f)  
 June 2026: [Evaluating Structured-Data-Analytics Performance](https://medium.com/@GeoffreyGordonAshbrook/evaluating-structured-data-analytics-performance-56355c238cdd)  
