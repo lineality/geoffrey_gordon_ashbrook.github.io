@@ -1,4 +1,4 @@
-### [Email](mailto:email_2023@geoffreygordonashbrook.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  | [Github](https://github.com/lineality/) | [Resume](https://drive.google.com/drive/folders/1o8iFI8IBKU-2E74q4WVIuZQlFlNPfINp)
+### [Github](https://github.com/lineality/) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//) | [Resume](https://drive.google.com/drive/folders/1o8iFI8IBKU-2E74q4WVIuZQlFlNPfINp) | [X/Twitter](https://twitter.com/GG_Ashbrook) | [Email](mailto:email_2023@geoffreygordonashbrook.com) 
 
 <img src="geoffrey_gordon_ashbrook_round.png" alt="Geoffrey Gordon Ashbrook" width="200" height="200">
 
