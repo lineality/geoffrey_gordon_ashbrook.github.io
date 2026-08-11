@@ -1,3 +1,5 @@
+### [Email](mailto:email_2023@geoffreygordonashbrook.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  | [Github](https://github.com/lineality/) | [Resume](https://drive.google.com/drive/folders/1o8iFI8IBKU-2E74q4WVIuZQlFlNPfINp)
+
 <img src="geoffrey_gordon_ashbrook_round.png" alt="Geoffrey Gordon Ashbrook" width="200" height="200">
 
 # Geoffrey Gordon Ashbrook
@@ -141,7 +143,4 @@ April 2023: [Better Tools To Plan AI](https://medium.com/@GeoffreyGordonAshbrook
 February 2020: [Explaining Basic NLP for Recommendation Systems](https://colab.research.google.com/drive/1n0QHVKLmjHhb1J0PVumoxq58-1OevP5b)  
 October 2019: [Less Is More: Explaining The Future - Using Only The Past](https://medium.com/wooden-information/less-is-more-904427f568e0)
 
-## Contact
-[Email](mailto:email_2023@geoffreygordonashbrook.com) | [Twitter](https://twitter.com/GG_Ashbrook) | [LinkedIn](https://www.linkedin.com/in/geoffrey-gordon-ashbrook//)  | [Github](https://github.com/lineality/)
 
-## [Resume](https://drive.google.com/drive/folders/1o8iFI8IBKU-2E74q4WVIuZQlFlNPfINp)
